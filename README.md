@@ -398,9 +398,9 @@ MIT License - feel free to use this for your own learning journey!
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub](https://github.com/yourusername)
-- Email: your.email@example.com
+- LinkedIn: [zouzeren LinkedIn](https://www.linkedin.com/in/zouzeren/)
+- GitHub: [ GitHub](https://github.com/Anthony-Zou/)
+- Email: zouzeren@gmail.com
 
 ---
 
